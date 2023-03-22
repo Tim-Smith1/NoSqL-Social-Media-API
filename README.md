@@ -12,15 +12,16 @@ Contributing
 Tests
 Authors and Acknowledgments
 About
-This application is all about keeping track of of your inventory by product, ID and category.
+This application is a Social Media back end server using a user and thought database. Users will be able to make thoughts and create reactions to others thoughts. Users can also add friends. 
 Installation:
-Clone the repo from GitHub using the repo link below. also requires- dependencies: npm i express@4.18.2 dotenv@16.0.3 sequelize@6.29.0 mysql2@3.2.0”
+Clone the repo from GitHub using the repo link below. also requires- dependencies: npm i express@4.17.1 mongoose@6.9.2
 
 To clone the repo:
 
-  git clone https://github.com/Tim-Smith1/TWSCommmerce
+  git clone https://github.com/Tim-Smith1/NoSqL-Social-Media-API
 Usage
-I want to create a app that will keep track of the inventory for a ecommerce site.
+I want to create a app that will keep track of users, users thoughts, reactions and friends.
+![Screen Shot 2023-03-22 at 6 54 22 PM](https://user-images.githubusercontent.com/122688372/227064508-86d4294c-9215-43fe-afcf-5870a2845714.png)
 
 License
 License used for this project - MIT
