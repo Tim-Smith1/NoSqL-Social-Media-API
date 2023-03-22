@@ -1,4 +1,4 @@
-const express = require('mongoose');
+const { Schema, Types} = require('mongoose');
 
 const reactionCountSchema = new Schema({
     reactionId: {
