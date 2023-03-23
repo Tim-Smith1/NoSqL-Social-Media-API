@@ -1,7 +1,9 @@
 # NoSqL-Social-Media-API
 This is an Social Media backend database application.
 
-License: MIT Video link: 
+License: MIT 
+
+Video link: https://drive.google.com/file/d/1mpWPLDUoT8hsH4_Kb4cXw9V3y_VHwVeC/view
 
 Contents
 About
